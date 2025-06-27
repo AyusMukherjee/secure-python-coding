@@ -1,0 +1,16 @@
+# Core dependencies
+flask==2.3.2
+python-dotenv==1.0.0
+
+# Security tools
+bandit==1.7.5
+pycryptodome==3.18.0
+
+# Data visualization
+matplotlib==3.7.1
+
+# Database
+sqlite3==3.39.4  # Usually comes with Python
+
+# Serialization
+pickle-mixin==1.0.2
