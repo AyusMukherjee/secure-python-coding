@@ -17,7 +17,7 @@ A demonstration of common security vulnerabilities in Python and their secure co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/secure-python-demo.git
+   git clone https://github.com/AyusMukherjee/secure-python-coding.git
    cd secure-python-demo
 2. Set up virtual environment:
    bash
